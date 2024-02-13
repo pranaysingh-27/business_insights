@@ -1,7 +1,8 @@
 # business_insights
 Business Insights 360
 
-> Description: This is an end-to-end Data Analytics Project of a computer hardware manufacturing company, Atliq Hardware. The project covers important business sectors: Sales, Finance, Marketing, and Supply Chain.
+> Description:
+- This is an end-to-end Data Analytics Project of a computer hardware manufacturing company, Atliq Hardware. The project covers important business sectors: Sales, Finance, Marketing, and Supply Chain.
 
 > Objectives:
 - Set up data analytics systems and processes for Atliq Hardware from scratch.
