@@ -1,4 +1,3 @@
-# business_insights_360
 Business Insights 360
 
 > Description:
