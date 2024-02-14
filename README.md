@@ -16,3 +16,6 @@ and recommendations.
 data from 2 sources (MS Excel/CSV files and a SQL database).
 - Performed ETL operations, built a data model and data visualizations in Power BI, optimized the report with DAX
 Studio, improved the performance by 5%.
+
+> Dashboard Link:
+- https://app.powerbi.com/view?r=eyJrIjoiZjEyZjY1YWQtYjE0ZS00YzU5LTk4YmYtMmExNWQ5M2E4YzU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
